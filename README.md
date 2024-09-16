@@ -17,10 +17,8 @@
 
 - <b>Credit Card Fraud Classification</b>
   - []()
-- <b>K-Means Cluster Analysis</b>
-  - []()
-- <b>Meteorological Data Analysis</b>
-  - []()
+- <b>[K-Means Cluster Analysis](https://github.com/KM016/KMeanCluster)</b>
+- <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b> 
 - <b>Covid-19 Data Analysis</b>
   - []()
 
