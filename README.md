@@ -36,9 +36,7 @@
  
 <h2>💻 Miscellaneous:</h2>
   
-- <b>Trapezium Area from TB1</b>
-  - []()
+- <b>Random Sampling Area Estimation</b>
+  - [Project](https://github.com/KM016/RandomSampleArea/tree/main)
 - <b>Hamia Motors Problem Solving Project (Y13 Final Project)</b>
-  - []()
-- <b>File Manager</b>
   - []()
