@@ -37,5 +37,5 @@
 <h2>💻 Miscellaneous:</h2>
   
 - <b>[Random Sampling Area Estimation](https://github.com/KM016/RandomSampleArea/tree/main)</b>
-- <b>Hamia Motors Problem Solving Project (Y13 Final Project)</b>
-  - []()
+- <b>[Hamia Motors Problem Solving Project (Y13 Final Project)](https://github.com/KM016/Year13Final)</b>
+
