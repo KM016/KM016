@@ -13,7 +13,7 @@
   - []()
 
 
-<h2>👨‍💻 Machine Learning and Data Analysis:</h2>
+<h2>🤖 Machine Learning and Data Analysis:</h2>
 
 - <b>Credit Card Fraud Classification</b>
   - []()
@@ -25,7 +25,7 @@
   - []()
 
 
- <h2>👨‍💻 C projects:</h2>
+ <h2>🔢 C projects:</h2>
   
   - <b>Hill Climbing Project</b>
     - []()
@@ -34,7 +34,7 @@
 
 
  
-<h2>👨‍💻 Miscellaneous:</h2>
+<h2>💻 Miscellaneous:</h2>
   
 - <b>Trapezium Area from TB1</b>
   - []()
