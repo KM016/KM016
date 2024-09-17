@@ -3,36 +3,29 @@
 
 <h2>👨‍💻 Quantitative Research Projects:</h2>
 
-- <b>Historic Gas Price Forecasting</b>
-  - []()
-- <b>Contract Pricing</b>
-  - []()
-- <b>Loan Default Logistic Regression</b>
-  - []()
-- <b>FICO Score Bucketing</b>
-  - []()
+- <b>[Gas Price Forecasting (using SARIMAX model)](https://github.com/KM016/GasPriceForecasting)</b>
+  - <b>[Contract Pricing](https://github.com/KM016/ContractPrice)</b>
+- <b>[Loan Default Logistic Regression](https://github.com/KM016/LoanDefault)</b>
+- <b>[FICO Score Bucketing](https://github.com/KM016/FICO-Bucket)</b>
 
 
-<h2>🤖 Machine Learning and Data Analysis:</h2>
 
-- <b>Credit Card Fraud Classification</b>
-  - []()
+<h2>🤖 Machine Learning and Data Analysis Projects:</h2>
+
+- <b>[Credit Card Fraud Classification](https://github.com/KM016/CCFraudDetection)</b>
 - <b>[K-Means Cluster Analysis](https://github.com/KM016/KMeanCluster)</b>
 - <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b> 
-- <b>Covid-19 Data Analysis</b>
-  - []()
+- <b>[Covid-19 Data Analysis](https://github.com/KM016/CovidDataAnalysis)</b>
 
 
  <h2>🔢 C projects:</h2>
   
-  - <b>Hill Climbing Project</b>
-    - []()
-- <b>Text Image Classification</b>
-  - []()
+- <b>[HITS Algorithms in CPP](https://github.com/KM016/PageRank)</b>
+- <b>[Image Classification (using KNN)](https://github.com/KM016/CImageClassification)</b>
 
 
  
-<h2>💻 Miscellaneous:</h2>
+<h2>💻 Miscellaneous Projects:</h2>
   
 - <b>[Random Sampling Area Estimation](https://github.com/KM016/RandomSampleArea/tree/main)</b>
 - <b>[Hamia Motors Problem Solving Project (Y13 Final Project)](https://github.com/KM016/Year13Final)</b>
