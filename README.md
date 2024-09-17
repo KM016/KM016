@@ -14,8 +14,7 @@
 
 - <b>[Credit Card Fraud Classification](https://github.com/KM016/CCFraudDetection)</b>
 - <b>[K-Means Cluster Analysis](https://github.com/KM016/KMeanCluster)</b>
-- <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b> 
-- <b>[Covid-19 Data Analysis](https://github.com/KM016/CovidDataAnalysis)</b>
+- <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b>
 
 
  <h2>🔢 C projects:</h2>
