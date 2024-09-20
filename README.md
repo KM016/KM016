@@ -25,7 +25,8 @@
 
  
 <h2>💻 Miscellaneous Projects:</h2>
-  
+
+- <b>[Binomial Option Pricing Model](https://github.com/KM016/BinomialPM)</b>
 - <b>[Random Sampling Area Estimation](https://github.com/KM016/RandomSampleArea/tree/main)</b>
 - <b>[Hamia Motors Problem Solving Project (Y13 Final Project)](https://github.com/KM016/Year13Final)</b>
 
