@@ -12,9 +12,8 @@
 
 <h2>🤖 Machine Learning and Data Analysis Projects:</h2>
 
-- <b>[Loan Approval Prediction Model (with app)](https://github.com/KM016/Loan-Approval-Prediction-Model)</b>
-- <b>[Loan Default Prediction Model (with app and ML models comparison)]()</b>
-- <b>[Credit Card Fraud Classification](https://github.com/KM016/CCFraudDetection)</b>
+- <b>[Loan Approval Prediction Model (under construction)](https://github.com/KM016/Loan-Approval-Prediction-Model)</b>
+- <b>[Credit Card Fraud Classification (under construction)](https://github.com/KM016/CCFraudDetection)</b>
 - <b>[K-Means Cluster Analysis](https://github.com/KM016/KMeanCluster)</b>
 - <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b>
 
@@ -29,6 +28,4 @@
 <h2>💻 Miscellaneous Projects:</h2>
 
 - <b>[Binomial Option Pricing Model](https://github.com/KM016/BinomialPM)</b>
-- <b>[Random Sampling Area Estimation](https://github.com/KM016/RandomSampleArea/tree/main)</b>
-- <b>[Hamia Motors Problem Solving Project (Y13 Final Project)](https://github.com/KM016/Year13Final)</b>
 
