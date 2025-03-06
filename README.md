@@ -13,7 +13,7 @@
 <h2>🤖 Machine Learning and Data Analysis Projects:</h2>
 
 - <b>[Loan Approval Prediction Model (undergoing changes)](https://github.com/KM016/Loan-Approval-Prediction-Model)</b>
-- <b>[Credit Card Fraud Classification (undergoing changes)](https://github.com/KM016/CCFraudDetection)</b>
+- <b>[Credit Card Fraud Classification](https://github.com/KM016/CCFraudDetection)</b>
 - <b>[K-Means Cluster Analysis](https://github.com/KM016/KMeanCluster)</b>
 - <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b>
 
