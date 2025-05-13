@@ -3,6 +3,7 @@
 
 <h2>👨‍💻 Quantitative Research Projects:</h2>
 
+- <b>[Statistical Arbitrage (with Wikipedia Search Analysis)](https://github.com/KM016/statisticalArbitrage)</b>
 - <b>[Gas Price Forecasting (using SARIMAX model)](https://github.com/KM016/GasPriceForecasting)</b>
   - <b>[Contract Pricing](https://github.com/KM016/ContractPrice)</b>
 - <b>[Loan Default Logistic Regression](https://github.com/KM016/LoanDefault)</b>
