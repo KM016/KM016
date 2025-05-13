@@ -18,10 +18,11 @@
 - <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b>
 
 
- <h2>🔢 C projects:</h2>
+ <h2>🔢 C/C++ projects:</h2>
   
 - <b>[HITS Algorithms in CPP](https://github.com/KM016/PageRank)</b>
 - <b>[Image Classification (using KNN)](https://github.com/KM016/CImageClassification)</b>
+- <b>[Monte Carlo Simulation of Ising Model](https://github.com/KM016/IsingModel)
 
 
  
