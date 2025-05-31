@@ -29,5 +29,4 @@
 <h2>💻 Miscellaneous Projects:</h2>
 
 - <b>[Binomial Option Pricing Model](https://github.com/KM016/BinomialPM)</b>
-- <b>[Ising Model Monte Carlo Simulation](https://github.com/KM016/IsingModel/tree/master)</b>
 
