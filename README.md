@@ -1,7 +1,5 @@
 <h1>Hi, I'm Keyaan👋<br>BSc Data Science Student at The University of Bristol</h1>
 
-<b>[University of Bristol Final Project Report)](https://github.com/KM016/SGD-UOB-individual-project/tree/main)</b>
-
 
 <h2>👨‍💻 Quantitative Research Projects:</h2>
 
@@ -15,6 +13,7 @@
 
 <h2>🤖 Machine Learning and Data Analysis Projects:</h2>
 
+- <b>[University of Bristol Final Project Report](https://github.com/KM016/SGD-UOB-individual-project/tree/main)</b>
 - <b>[Credit Card Fraud Classification](https://github.com/KM016/CCFraudDetection)</b>
 - <b>[K-Means Cluster Analysis](https://github.com/KM016/KMeanCluster)</b>
 - <b>[Meteorological Data Analysis](https://github.com/KM016/WeatherDataAnalysis)</b>
