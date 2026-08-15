@@ -19,7 +19,7 @@
 
 - **[Monte Carlo Simulation of the 1D and 2D Ising Model](https://github.com/KM016/IsingModel)**
 - **[Citation-Network Ranking with HITS in C++](https://github.com/KM016/PageRank)**
-- **[K-Means Cluster Analysis](https://github.com/KM016/KMeanCluster)**
+- **[L1 Clustering from Scratch in R](https://github.com/KM016/KMeanCluster)**
 - **[Binary Handwritten-Digit Classification with 5-NN in C](https://github.com/KM016/CImageClassification)**
 - **[London Air Quality and Meteorological Analysis](https://github.com/KM016/WeatherDataAnalysis)**
 
