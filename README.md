@@ -1,4 +1,5 @@
-<h1>Hi, I'm Keyaan👋<br>First Class BSc Data Science Graduate from The University of Bristol</h1>
+<h1>Hi, I'm Keyaan👋</h1>
+<h4>MSc Statistics Student at Imperial College London<br>First Class BSc Data Science Graduate from The University of Bristol</h4>
 
 
 <h2>👨‍💻 Quantitative Research Projects:</h2>
