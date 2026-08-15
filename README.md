@@ -7,6 +7,8 @@
 - **[Cryptocurrency Statistical Arbitrage with Wikipedia Attention Signals](https://github.com/KM016/statisticalArbitrage)**
 - **[Credit Card Fraud Detection on Imbalanced Data](https://github.com/KM016/CCFraudDetection)**
 - **[Interactive Binomial Option Pricing and Sensitivity Analysis](https://github.com/KM016/BinomialPM)**
+- **Updated Natural Gas Price Forecasting and Contract Valuation**
+- **Updated Weather Analysis Project**
 
 <h2>🏦 J.P. Morgan Quantitative Research Job Simulation</h2>
 
@@ -21,5 +23,5 @@
 - **[Citation-Network Ranking with HITS in C++](https://github.com/KM016/PageRank)**
 - **[L1 Clustering from Scratch in R](https://github.com/KM016/KMeanCluster)**
 - **[Binary Handwritten-Digit Classification with 5-NN in C](https://github.com/KM016/CImageClassification)**
-- **[London Air Quality and Meteorological Analysis](https://github.com/KM016/WeatherDataAnalysis)**
+- **[London Air Quality and Weather Analysis](https://github.com/KM016/WeatherDataAnalysis)**
 
