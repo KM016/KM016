@@ -5,7 +5,7 @@
 
 - **[Stochastic Approximation and Variance-Reduced Optimisation (Undergraduate Final Project)](https://github.com/KM016/SGD-UOB-individual-project)**
 - **[Cryptocurrency Statistical Arbitrage with Wikipedia Attention Signals](https://github.com/KM016/statisticalArbitrage)**
-- **[Credit Card Fraud Detection on Imbalanced Data](https://github.com/KM016/CCFraudDetection)**
+- **[Credit Card Fraud Detection](https://github.com/KM016/CCFraudDetection)**
 - **[Interactive Binomial Option Pricing and Sensitivity Analysis](https://github.com/KM016/BinomialPM)**
 - **Updated Natural Gas Price Forecasting and Contract Valuation**
 - **Updated Weather Analysis Project**
