@@ -8,7 +8,7 @@
 - **[Credit Card Fraud Detection](https://github.com/KM016/CCFraudDetection)**
 - **[Interactive Binomial Option Pricing and Sensitivity Analysis](https://github.com/KM016/BinomialPM)**
 - **[Updated Natural Gas Price Forecasting and Contract Valuation](https://github.com/KM016/storage_valuation)**
-- **[Updated Weather Analysis Project](https://github.com/KM016/weather_riskmodelling)**
+- **[Statistical Weather Forecasting and Risk Modelling](https://github.com/KM016/weather_riskmodelling)**
 
 <h2>🏦 J.P. Morgan Quantitative Research Job Simulation</h2>
 
