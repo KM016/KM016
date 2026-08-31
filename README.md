@@ -5,6 +5,8 @@
 
 - **[Stochastic Approximation and Variance-Reduced Optimisation (Undergraduate Final Project)](https://github.com/KM016/SGD-UOB-individual-project)**
 - **[Variance Reduced Proximal Methods for Sparse S&P 500 Portfolio Optimisation](https://github.com/KM016/VR_SPY_PO)**
+  - **[Sparse Portfolio Construction & Risk Analytics API](https://github.com/chrisbsoo/spo-tools)**
+  - **[Interactive Portfolio Optimisation & Distribution Monitoring Dashboard](https://github.com/chrisbsoo/spo-web)**
 - **[Cryptocurrency Statistical Arbitrage with Wikipedia Attention Signals](https://github.com/KM016/statisticalArbitrage)**
 - **[Credit Card Fraud Detection](https://github.com/KM016/CCFraudDetection)**
 - **[Interactive Binomial Option Pricing and Sensitivity Analysis](https://github.com/KM016/BinomialPM)**
