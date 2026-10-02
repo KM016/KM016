@@ -90,7 +90,7 @@ Compared SPGD, Prox-SVRG, Prox-SARAH and Prox-STORM for sparse S&P 500 portfolio
 
 <h3>📊 <a href="https://github.com/KM016/VR_SPY_SPO">Portfolio Optimisation & Monitoring Platform For Traders</a></h3>
 
-Trader facing platform built around the sparse portfolio optimisation research, allowing users to build, save and review portfolios through an interactive interface. Includes return distribution monitoring using <b>PSI and Kolmogorov–Smirnov diagnostics</b>.
+Trader facing platform built around the sparse portfolio optimisation research, allowing users to build, save and review portfolios through an interactive interface. Includes return distribution monitoring.
 
 
 <a href="https://github.com/KM016/VR_SPY_SPO">Research</a> ·
