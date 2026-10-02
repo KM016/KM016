@@ -1,17 +1,14 @@
-<p align="center">
-  <a href="https://github.com/KM016">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=666&text=Hey%2C%20I'm%20Keyaan%20%F0%9F%91%8B" alt="Hey, I&#39;m Keyaan 👋" />
-  </a>
-</p>
+<h1 align="center">
+  Hey, I'm Keyaan 👋
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?weight=600&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=415&height=44&lines=MSc%20Statistics%20%40%20Imperial" alt="Typing headlines" />
-</p>
+<h3 align="center">
+  <b>MSc Statistics @ Imperial</b>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -22,12 +19,16 @@
 
 ### 👦 About Me
 
-MSc Statistics student at Imperial College London, with a First-Class BSc in Data Science from the University of Bristol and winner of the Howell Peregrine Project Prize. Interested in statistics, machine learning and finance, particularly where they overlap in quantitative research and trading. Academic research has focused on stochastic optimisation, including SGD, Prox-SGD, SVRG and Prox-SVRG, as well as sparse portfolio optimisation using variance-reduced proximal methods. Currently a member of Imperial's AlgoSoc and continuing to build projects around financial modelling, statistical learning and quantitative methods. Longer term, the aim is to work on problems where strong statistical and mathematical modelling can be applied to real financial data and decision-making.
+MSc Statistics student at Imperial College London, with a First-Class BSc in Data Science from the University of Bristol and winner of the Howell Peregrine Project Prize. Interested in statistics, machine learning and finance, particularly where they overlap in quantitative research and trading. Academic research has focused on stochastic optimisation, including SGD, Prox-SGD, SVRG and Prox-SVRG, as well as sparse portfolio optimisation using variance-reduced proximal methods. Currently a member of Imperial's AlgoSoc and continuing to build projects around financial modelling, statistical learning and quantitative methods. Longer term, the aim is to work on problems where strong statistical and mathematical modelling can be applied to real financial data and decision making.
 
 ### 👾 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KM016&layout=compact&theme=tokyonight&title_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img
+    height="165"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KM016&layout=compact&theme=tokyonight&title_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=00000000&langs_count=8&disable_animations=true"
+    alt="Top languages"
+  />
 </p>
 
 ---
