@@ -20,11 +20,11 @@
 
 ---
 
-### 🚀 About Me
+### 👦 About Me
 
-MSc Statistics Student @ Imperial College London. First-Class BSc Data Science from the University of Bristol and winner of the Howell Peregrine Project Prize. Academic research spans analysing the stochastic approximation and the convergence of SGD, Prox-PGD, SVRG, and Prox-SVRG, along with applying variance-reduced proximal optimisation methods to sparse S&amp;P500 portfolio construction. Independent Research projects can be found below.
+MSc Statistics student at Imperial College London, with a First-Class BSc in Data Science from the University of Bristol and winner of the Howell Peregrine Project Prize. Interested in statistics, machine learning and finance, particularly where they overlap in quantitative research and trading. Academic research has focused on stochastic optimisation, including SGD, Prox-SGD, SVRG and Prox-SVRG, as well as sparse portfolio optimisation using variance-reduced proximal methods. Currently a member of Imperial's AlgoSoc and continuing to build projects around financial modelling, statistical learning and quantitative methods. Longer term, the aim is to work on problems where strong statistical and mathematical modelling can be applied to real financial data and decision-making.
 
-### 📊 GitHub Stats
+### 👾 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KM016&layout=compact&theme=tokyonight&title_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
@@ -55,13 +55,9 @@ Undergraduate final year individual project on SGD, stochastic approximation and
 </td>
 <td width="50%" valign="top">
 
-<h3>📊 <a href="https://github.com/KM016/VR_SPY_SPO">Sparse S&P 500 Portfolio Optimisation</a></h3>
+<h3>📊 <a href="https://github.com/KM016/VR_SPY_SPO">Sparse S&P 500 Portfolio Optimisation using Stochastic Proximal Variance Reduced Methods</a></h3>
 
 Compared SPGD, Prox-SVRG, Prox-SARAH and Prox-STORM for sparse S&P 500 portfolio construction. Grade: 86% · Awarded the Howell Peregrine Project Prize.
-
-<a href="https://github.com/KM016/VR_SPY_SPO">Research</a> ·
-<a href="https://github.com/chrisbsoo/spo-tools">API</a> ·
-<a href="https://github.com/chrisbsoo/spo-web">Dashboard</a>
 
 <code>Python</code> <code>Prox-SVRG</code> <code>Portfolio Optimisation</code>
 
@@ -73,6 +69,34 @@ Compared SPGD, Prox-SVRG, Prox-SARAH and Prox-STORM for sparse S&P 500 portfolio
 
 <table>
 <tr>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 <a href="https://github.com/KM016/VR_SPY_SPO">Portfolio Optimisation & Monitoring Platform For Traders</a></h3>
+
+Trader facing platform built around the sparse portfolio optimisation research, allowing users to build, save and review portfolios through an interactive interface. Includes return distribution monitoring using <b>PSI and Kolmogorov–Smirnov diagnostics</b>.
+
+
+<a href="https://github.com/KM016/VR_SPY_SPO">Research</a> ·
+<a href="https://github.com/chrisbsoo/spo-tools">API</a> ·
+<a href="https://github.com/chrisbsoo/spo-web">Dashboard</a>
+
+<code>Python</code> <code>FastAPI</code> <code>Portfolio Optimisation</code> 
+
+
+<td width="50%" valign="top">
+
+<h3>🪙 <a href="https://github.com/KM016/statisticalArbitrage">Cryptocurrency Statistical Arbitrage</a></h3>
+
+Currently being reworked, found issues in the original implementation ⚠️
+
+<code>Python</code> <code>Statistical Arbitrage</code> <code>Alternative Data</code>
+
+</tr>
+
+</td>
+  
 <td width="50%" valign="top">
 
 <h3>🔥 <a href="https://github.com/KM016/storage_valuation">Natural Gas Forecasting & Storage Valuation</a></h3>
@@ -91,17 +115,6 @@ CRR pricing engine for European and American options, with Greeks, Black–Schol
 <code>Python</code> <code>Derivatives</code> <code>Numerical Methods</code> <code>Streamlit</code>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>₿ <a href="https://github.com/KM016/statisticalArbitrage">Cryptocurrency Statistical Arbitrage</a></h3>
-
-Currently being reworked, found issues in the original implementation ⚠️
-
-<code>Python</code> <code>Statistical Arbitrage</code> <code>Alternative Data</code>
-
 </tr>
 </table>
 
@@ -157,7 +170,7 @@ C++ implementation of a HITS-style ranking algorithm for academic citation netwo
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎯 <a href="https://github.com/KM016/KMeanCluster">L1 Clustering from Scratch</a></h3>
+<h3>🌸 <a href="https://github.com/KM016/KMeanCluster">L1 Clustering from Scratch</a></h3>
 
 L1 clustering algorithm built from scratch in R and tested on simulated data and the Iris dataset. Mark: 88/100.
 
