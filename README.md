@@ -30,36 +30,165 @@ MSc Statistics Student @ Imperial College London. First-Class BSc Data Science f
 
 ---
 
-### 💻 Projects 
+---
 
-#### 📊 Quantitative and Data Science 
-- **[Stochastic Approximation and Variance-Reduced Optimisation (Undergraduate Final Project)](https://github.com/KM016/SGD-UOB-individual-project)**
-- **[Variance Reduced Proximal Methods for Sparse S&P 500 Portfolio Optimisation](https://github.com/KM016/VR_SPY_SPO)**
-  - **[Sparse Portfolio Construction & Risk Analytics API](https://github.com/chrisbsoo/spo-tools)**
-  - **[Interactive Portfolio Optimisation & Distribution Monitoring Dashboard](https://github.com/chrisbsoo/spo-web)**
-- **[Cryptocurrency Statistical Arbitrage with Wikipedia Attention Signals (reworking)](https://github.com/KM016/statisticalArbitrage)**
-- **[Credit Card Fraud Detection](https://github.com/KM016/CCFraudDetection)**
-- **[Interactive Binomial Option Pricing and Sensitivity Analysis](https://github.com/KM016/BinomialPM)**
-- **[Updated Natural Gas Price Forecasting and Contract Valuation](https://github.com/KM016/storage_valuation)**
-- **[Statistical Weather Forecasting and Risk Modelling](https://github.com/KM016/weather_riskmodelling)**
+<div align="center">
 
-#### 🏦 J.P. Morgan Quantitative Research Job Simulation
+## 💻 Projects
 
-- **[Natural Gas Price Forecasting with SARIMAX](https://github.com/KM016/GasPriceForecasting)**
-  - **[Natural Gas Storage Contract Valuation](https://github.com/KM016/ContractPrice)**
-- **[Probability of Default and Expected Loss Modelling](https://github.com/KM016/LoanDefault)**
-- **[Likelihood-Based FICO Score Bucketing](https://github.com/KM016/FICO-Bucket)**
+**Research, quantitative finance, machine learning and statistical computing**
 
-#### 🎓 University Courseworks
+</div>
 
-- **[Monte Carlo Simulation of the 1D and 2D Ising Model](https://github.com/KM016/IsingModel)**
-- **[Citation-Network Ranking with HITS in C++](https://github.com/KM016/PageRank)**
-- **[L1 Clustering from Scratch in R](https://github.com/KM016/KMeanCluster)**
-- **[Binary Handwritten-Digit Classification with 5-NN in C](https://github.com/KM016/CImageClassification)**
-- **[London Air Quality and Weather Analysis](https://github.com/KM016/WeatherDataAnalysis)**
+### 🎓 Academic Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📉 <a href="https://github.com/KM016/SGD-UOB-individual-project">Stochastic Approximation & Variance-Reduced Optimisation</a></h3>
+
+Undergraduate research into stochastic approximation and the convergence of SGD, Prox-SGD, SVRG and Prox-SVRG, combining theoretical analysis with numerical experiments.
+
+<code>Python</code> <code>Optimisation</code> <code>Stochastic Approximation</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 <a href="https://github.com/KM016/VR_SPY_SPO">Sparse S&P 500 Portfolio Optimisation</a></h3>
+
+Variance-reduced proximal methods for sparse portfolio construction, developed into a wider portfolio optimisation system with an analytics API and interactive dashboard.
+
+<a href="https://github.com/KM016/VR_SPY_SPO">Research</a> ·
+<a href="https://github.com/chrisbsoo/spo-tools">API</a> ·
+<a href="https://github.com/chrisbsoo/spo-web">Dashboard</a>
+
+<code>Python</code> <code>Prox-SVRG</code> <code>Portfolio Optimisation</code>
+
+</td>
+</tr>
+</table>
+
+### 📈 Quantitative Finance
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔥 <a href="https://github.com/KM016/storage_valuation">Natural Gas Forecasting & Storage Valuation</a></h3>
+
+Natural gas price forecasting using market, storage and weather variables, followed by optimisation-based valuation of storage contracts.
+
+<code>Python</code> <code>Time Series</code> <code>ARIMAX</code> <code>Linear Programming</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚙️ <a href="https://github.com/KM016/BinomialPM">Option Pricing & Sensitivity Analysis</a></h3>
+
+Interactive pricing of European and American options using the CRR binomial model, with Greeks, Black–Scholes benchmarking and sensitivity analysis.
+
+<code>Python</code> <code>Derivatives</code> <code>Numerical Methods</code> <code>Streamlit</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>₿ <a href="https://github.com/KM016/statisticalArbitrage">Cryptocurrency Statistical Arbitrage</a></h3>
+
+Walk-forward pairs-trading research incorporating rolling statistical relationships and Wikipedia attention signals as an alternative-data feature.
+
+<code>Python</code> <code>Statistical Arbitrage</code> <code>Alternative Data</code>
+
+</tr>
+</table>
+
+### 🤖 Data Science & Machine Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💳 <a href="https://github.com/KM016/CCFraudDetection">Credit Card Fraud Detection</a></h3>
+
+Fraud detection across 1.85M transactions using leakage-safe behavioural features and machine-learning models evaluated with chronological train/test splits.
+
+<code>Python</code> <code>XGBoost</code> <code>Classification</code> <code>Feature Engineering</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌦️ <a href="https://github.com/KM016/weather_riskmodelling">Statistical Weather Forecasting & Risk Modelling</a></h3>
+
+Temperature forecasting using harmonic regression and time-series error modelling, extended with empirical prediction intervals and bootstrap-based risk simulation.
+
+<code>Python</code> <code>Time Series</code> <code>Bootstrap</code> <code>Risk Modelling</code>
+
+</td>
+</tr>
+</table>
+
+### 🏫 University Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧲 <a href="https://github.com/KM016/IsingModel">Monte Carlo Simulation of the Ising Model</a></h3>
+
+Monte Carlo simulation of the one- and two-dimensional Ising model to investigate statistical-mechanical behaviour.
+
+<code>Monte Carlo</code> <code>Simulation</code> <code>Statistical Computing</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔗 <a href="https://github.com/KM016/PageRank">Citation-Network Ranking with HITS</a></h3>
+
+C++ implementation of the HITS algorithm for ranking nodes within a citation network.
+
+<code>C++</code> <code>Graph Algorithms</code> <code>Linear Algebra</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎯 <a href="https://github.com/KM016/KMeanCluster">L1 Clustering from Scratch</a></h3>
+
+Implementation and analysis of clustering methods using the L1 distance metric in R.
+
+<code>R</code> <code>Clustering</code> <code>Statistical Computing</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✍️ <a href="https://github.com/KM016/CImageClassification">Handwritten-Digit Classification</a></h3>
+
+Binary handwritten-digit classification using a 5-nearest-neighbours classifier implemented in C.
+
+<code>C</code> <code>k-NN</code> <code>Machine Learning</code>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 <a href="https://github.com/KM016/WeatherDataAnalysis">London Air Quality & Weather Analysis</a></h3>
+
+Exploratory statistical analysis of London air-quality and weather data using R.
+
+<code>R</code> <code>Data Analysis</code> <code>Visualisation</code>
+</tr>
+</table>
+
+### 🗂️ Additional Work
 
 ---
-### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/keyaanmiah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
