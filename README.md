@@ -2,10 +2,6 @@
   Hey, I'm Keyaan 👋
 </h1>
 
-<h3 align="center">
-  <b>MSc Statistics @ Imperial</b>
-</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
