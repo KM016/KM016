@@ -8,13 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?weight=600&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=415&height=44&lines=MSc%20Statistics%20%40%20Imperial" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
-
-MSc Statistics Student @ Imperial College London. First-Class BSc Data Science from the University of Bristol and winner of the Howell Peregrine Project Prize. Academic research spans analysing the stochastic approximation and the convergence of SGD, Prox-PGD, SVRG, and Prox-SVRG, along with applying variance-reduced proximal optimisation methods to sparse S&amp;P500 portfolio construction. Independent Research projects can be found below.
-
-### 🛠️ Tech Stack
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -23,6 +17,10 @@ MSc Statistics Student @ Imperial College London. First-Class BSc Data Science f
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+### 🚀 About Me
+
+MSc Statistics Student @ Imperial College London. First-Class BSc Data Science from the University of Bristol and winner of the Howell Peregrine Project Prize. Academic research spans analysing the stochastic approximation and the convergence of SGD, Prox-PGD, SVRG, and Prox-SVRG, along with applying variance-reduced proximal optimisation methods to sparse S&amp;P500 portfolio construction. Independent Research projects can be found below.
 
 ### 📊 GitHub Stats
 
