@@ -122,7 +122,7 @@ Fraud detection across 1.85M transactions using leakage-safe behavioural feature
 
 <h3>🌦️ <a href="https://github.com/KM016/weather_riskmodelling">Statistical Weather Forecasting & Risk Modelling</a></h3>
 
-Temperature forecasting using harmonic regression and time-series error modelling, extended with empirical prediction intervals and bootstrap-based risk simulation.
+Temperature forecasting using harmonic regression and time series error modelling, extended with empirical prediction intervals and risk simulation.
 
 <code>Python</code> <code>Time Series</code> <code>Bootstrap</code> <code>Risk Modelling</code>
 
@@ -138,7 +138,7 @@ Temperature forecasting using harmonic regression and time-series error modellin
 
 <h3>🧲 <a href="https://github.com/KM016/IsingModel">Monte Carlo Simulation of the Ising Model</a></h3>
 
-Monte Carlo simulation of the one- and two-dimensional Ising model to investigate statistical-mechanical behaviour.
+Monte Carlo simulation of the one and two dimensional Ising model to investigate statistical-mechanical behaviour.
 
 <code>Monte Carlo</code> <code>Simulation</code> <code>Statistical Computing</code>
 
@@ -168,7 +168,7 @@ Implementation and analysis of clustering methods using the L1 distance metric i
 
 <h3>✍️ <a href="https://github.com/KM016/CImageClassification">Handwritten-Digit Classification</a></h3>
 
-Binary handwritten-digit classification using a 5-nearest-neighbours classifier implemented in C.
+Binary handwritten-digit classification using a 5 nearest neighbours classifier implemented in C.
 
 <code>C</code> <code>k-NN</code> <code>Machine Learning</code>
 
@@ -180,13 +180,15 @@ Binary handwritten-digit classification using a 5-nearest-neighbours classifier 
 
 <h3>🌍 <a href="https://github.com/KM016/WeatherDataAnalysis">London Air Quality & Weather Analysis</a></h3>
 
-Exploratory statistical analysis of London air-quality and weather data using R.
+Exploratory statistical analysis of London air quality and weather data.
 
 <code>R</code> <code>Data Analysis</code> <code>Visualisation</code>
 </tr>
 </table>
 
 ### 🗂️ Additional Work
+
+🏦 [J.P. Morgan Quantitative Research Virtual Job Simulation (Forage)]()
 
 ---
 
