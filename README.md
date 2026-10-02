@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+---
+
 ### 🚀 About Me
 
 MSc Statistics Student @ Imperial College London. First-Class BSc Data Science from the University of Bristol and winner of the Howell Peregrine Project Prize. Academic research spans analysing the stochastic approximation and the convergence of SGD, Prox-PGD, SVRG, and Prox-SVRG, along with applying variance-reduced proximal optimisation methods to sparse S&amp;P500 portfolio construction. Independent Research projects can be found below.
@@ -36,8 +38,6 @@ MSc Statistics Student @ Imperial College London. First-Class BSc Data Science f
 
 ## 💻 Projects
 
-**Research, quantitative finance, machine learning and statistical computing**
-
 </div>
 
 ### 🎓 Academic Research
@@ -48,7 +48,7 @@ MSc Statistics Student @ Imperial College London. First-Class BSc Data Science f
 
 <h3>📉 <a href="https://github.com/KM016/SGD-UOB-individual-project">Stochastic Approximation & Variance-Reduced Optimisation</a></h3>
 
-Undergraduate research into stochastic approximation and the convergence of SGD, Prox-SGD, SVRG and Prox-SVRG, combining theoretical analysis with numerical experiments.
+Undergraduate final year individual project on SGD, stochastic approximation and variance-reduced methods including SVRG and Prox-SVRG, supported by convergence experiments on well- and ill-conditioned problems. Grade: 92%.
 
 <code>Python</code> <code>Optimisation</code> <code>Stochastic Approximation</code>
 
@@ -57,7 +57,7 @@ Undergraduate research into stochastic approximation and the convergence of SGD,
 
 <h3>📊 <a href="https://github.com/KM016/VR_SPY_SPO">Sparse S&P 500 Portfolio Optimisation</a></h3>
 
-Variance-reduced proximal methods for sparse portfolio construction, developed into a wider portfolio optimisation system with an analytics API and interactive dashboard.
+Compared SPGD, Prox-SVRG, Prox-SARAH and Prox-STORM for sparse S&P 500 portfolio construction. Grade: 86% · Awarded the Howell Peregrine Project Prize.
 
 <a href="https://github.com/KM016/VR_SPY_SPO">Research</a> ·
 <a href="https://github.com/chrisbsoo/spo-tools">API</a> ·
@@ -77,7 +77,7 @@ Variance-reduced proximal methods for sparse portfolio construction, developed i
 
 <h3>🔥 <a href="https://github.com/KM016/storage_valuation">Natural Gas Forecasting & Storage Valuation</a></h3>
 
-Natural gas price forecasting using market, storage and weather variables, followed by optimisation-based valuation of storage contracts.
+Forecasted Henry Hub prices using historical EIA vintages, storage levels and weather data, then used those forecasts to optimise monthly storage decisions.
 
 <code>Python</code> <code>Time Series</code> <code>ARIMAX</code> <code>Linear Programming</code>
 
@@ -86,7 +86,7 @@ Natural gas price forecasting using market, storage and weather variables, follo
 
 <h3>⚙️ <a href="https://github.com/KM016/BinomialPM">Option Pricing & Sensitivity Analysis</a></h3>
 
-Interactive pricing of European and American options using the CRR binomial model, with Greeks, Black–Scholes benchmarking and sensitivity analysis.
+CRR pricing engine for European and American options, with Greeks, Black–Scholes comparisons and an interactive Streamlit app.
 
 <code>Python</code> <code>Derivatives</code> <code>Numerical Methods</code> <code>Streamlit</code>
 
@@ -98,7 +98,7 @@ Interactive pricing of European and American options using the CRR binomial mode
 
 <h3>₿ <a href="https://github.com/KM016/statisticalArbitrage">Cryptocurrency Statistical Arbitrage</a></h3>
 
-Walk-forward pairs-trading research incorporating rolling statistical relationships and Wikipedia attention signals as an alternative-data feature.
+Currently being reworked, found issues in the original implementation ⚠️
 
 <code>Python</code> <code>Statistical Arbitrage</code> <code>Alternative Data</code>
 
@@ -113,7 +113,7 @@ Walk-forward pairs-trading research incorporating rolling statistical relationsh
 
 <h3>💳 <a href="https://github.com/KM016/CCFraudDetection">Credit Card Fraud Detection</a></h3>
 
-Fraud detection across 1.85M transactions using leakage-safe behavioural features and machine-learning models evaluated with chronological train/test splits.
+Compared five models across 1.85M transactions, with XGBoost performing best. Caught 1,848 of 2,145 frauds in the final test set and 94.3% of fraudulent transaction value.
 
 <code>Python</code> <code>XGBoost</code> <code>Classification</code> <code>Feature Engineering</code>
 
@@ -122,7 +122,7 @@ Fraud detection across 1.85M transactions using leakage-safe behavioural feature
 
 <h3>🌦️ <a href="https://github.com/KM016/weather_riskmodelling">Statistical Weather Forecasting & Risk Modelling</a></h3>
 
-Temperature forecasting using harmonic regression and time series error modelling, extended with empirical prediction intervals and risk simulation.
+Built 1, 3 and 7 day Heathrow temperature forecasts using over 50 years of data, then used forecast uncertainty to simulate a temperature linked payout.
 
 <code>Python</code> <code>Time Series</code> <code>Bootstrap</code> <code>Risk Modelling</code>
 
@@ -138,7 +138,7 @@ Temperature forecasting using harmonic regression and time series error modellin
 
 <h3>🧲 <a href="https://github.com/KM016/IsingModel">Monte Carlo Simulation of the Ising Model</a></h3>
 
-Monte Carlo simulation of the one and two dimensional Ising model to investigate statistical-mechanical behaviour.
+C++ implementation of the 1D and 2D Ising models using Metropolis Monte Carlo simulation, with Python analysis of energy and magnetisation across different values of $\beta$.
 
 <code>Monte Carlo</code> <code>Simulation</code> <code>Statistical Computing</code>
 
@@ -147,7 +147,7 @@ Monte Carlo simulation of the one and two dimensional Ising model to investigate
 
 <h3>🔗 <a href="https://github.com/KM016/PageRank">Citation-Network Ranking with HITS</a></h3>
 
-C++ implementation of the HITS algorithm for ranking nodes within a citation network.
+C++ implementation of a HITS-style ranking algorithm for academic citation networks, with iterative impact and knowledge scores calculated from scratch. Mark: 90/100.
 
 <code>C++</code> <code>Graph Algorithms</code> <code>Linear Algebra</code>
 
@@ -159,7 +159,7 @@ C++ implementation of the HITS algorithm for ranking nodes within a citation net
 
 <h3>🎯 <a href="https://github.com/KM016/KMeanCluster">L1 Clustering from Scratch</a></h3>
 
-Implementation and analysis of clustering methods using the L1 distance metric in R.
+L1 clustering algorithm built from scratch in R and tested on simulated data and the Iris dataset. Mark: 88/100.
 
 <code>R</code> <code>Clustering</code> <code>Statistical Computing</code>
 
@@ -168,7 +168,9 @@ Implementation and analysis of clustering methods using the L1 distance metric i
 
 <h3>✍️ <a href="https://github.com/KM016/CImageClassification">Handwritten-Digit Classification</a></h3>
 
-Binary handwritten-digit classification using a 5 nearest neighbours classifier implemented in C.
+5 nearest neighbours classifier written entirely in C to identify handwritten 1s from 28×28 images, using 1,987 training samples. Mark: 100/100.
+
+
 
 <code>C</code> <code>k-NN</code> <code>Machine Learning</code>
 
@@ -180,7 +182,7 @@ Binary handwritten-digit classification using a 5 nearest neighbours classifier 
 
 <h3>🌍 <a href="https://github.com/KM016/WeatherDataAnalysis">London Air Quality & Weather Analysis</a></h3>
 
-Exploratory statistical analysis of London air quality and weather data.
+Analysed hourly pollution and weather data across London from 2018–2021, comparing urban and rural PM10 levels and their relationship with weather conditions.
 
 <code>R</code> <code>Data Analysis</code> <code>Visualisation</code>
 </tr>
