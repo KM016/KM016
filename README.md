@@ -96,18 +96,6 @@ Trader facing platform built around the sparse portfolio optimisation research, 
 
 <code>Python</code> <code>FastAPI</code> <code>Portfolio Optimisation</code> 
 
-
-<td width="50%" valign="top">
-
-<h3>🪙 <a href="https://github.com/KM016/statisticalArbitrage">Cryptocurrency Statistical Arbitrage</a></h3>
-
-Currently being reworked, found issues in the original implementation ⚠️
-
-<code>Python</code> <code>Statistical Arbitrage</code> <code>Alternative Data</code>
-
-</tr>
-
-</td>
   
 <td width="50%" valign="top">
 
@@ -118,6 +106,7 @@ Forecasted Henry Hub prices using historical EIA vintages, storage levels and we
 <code>Python</code> <code>Time Series</code> <code>ARIMAX</code> <code>Linear Programming</code>
 
 </td>
+<tr>
 <td width="50%" valign="top">
 
 <h3>⚙️ <a href="https://github.com/KM016/BinomialPM">Option Pricing & Sensitivity Analysis</a></h3>
@@ -126,7 +115,9 @@ CRR pricing engine for European and American options, with Greeks, Black–Schol
 
 <code>Python</code> <code>Derivatives</code> <code>Numerical Methods</code> <code>Streamlit</code>
 
+</tr>
 </td>
+
 </tr>
 </table>
 
