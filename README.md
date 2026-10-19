@@ -137,7 +137,13 @@ Blackjack simulator to compare reinforcement learning with traditional betting s
 </td>
 <td width="50%" valign="top">
 
-<!-- Space for poker project -->
+
+<h3>♠️ PokerAI</h3>
+
+XYZ
+
+<code>Python</code> <code>Probability</code> <code>Game Theory</code>
+
 
 </td>
 </tr>
