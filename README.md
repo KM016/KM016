@@ -113,6 +113,8 @@ Forecasted Henry Hub prices using historical EIA vintages, storage levels and we
 
 CRR pricing engine for European and American options, with Greeks, Black–Scholes comparisons and an interactive Streamlit app.
 
+<a href="https://binomialpm.streamlit.app/">App</a>
+
 <code>Python</code> <code>Derivatives</code> <code>Numerical Methods</code> <code>Streamlit</code>
 
 </tr>
@@ -133,6 +135,8 @@ CRR pricing engine for European and American options, with Greeks, Black–Schol
 
 Blackjack simulator to compare reinforcement learning with traditional betting strategies. Explores bankroll management, risk and profitability.
 
+<a href="https://poker0ai.streamlit.app/">App</a>
+
 <code>Python</code> <code>Reinforcement Learning</code> <code>Risk Modelling</code>
 
 </td>
@@ -142,6 +146,8 @@ Blackjack simulator to compare reinforcement learning with traditional betting s
 <h3>♠️ <a href="https://github.com/KM016/PokerAI">Poker AI Sandbox</a></h3>
 
 AI sandbox for exploring game theory and reinforcement learning through Kuhn and Leduc Poker. Trained CFR, CFR+, Q learning and DQN agents and compared profitability and exploitability.
+
+<a href="https://poker0ai.streamlit.app/">App</a>
 
 <code>Python</code> <code>Game Theory</code> <code>Probability</code> <code>DQN</code> <code>Streamlit</code>
 
