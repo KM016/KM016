@@ -131,7 +131,7 @@ CRR pricing engine for European and American options, with Greeks, Black–Schol
 <h3>🃏 <a href="https://github.com/KM016/BlackJack_AI">Blackjack Bankroll Reinforcement Learning and Risk Analysis
 </a></h3>
 
-Blackjack simulator to compare reinforcement learning with traditional betting strategies.
+Blackjack simulator to compare reinforcement learning with traditional betting strategies. Explores bankroll management, risk and profitability.
 
 <code>Python</code> <code>Reinforcement Learning</code> <code>Risk Modelling</code>
 
@@ -141,7 +141,7 @@ Blackjack simulator to compare reinforcement learning with traditional betting s
 
 <h3>♠️ <a href="https://github.com/KM016/PokerAI">Poker AI Sandbox</a></h3>
 
-AI sandbox for exploring game theory and reinforcement learning through Kuhn and Leduc Poker. Trained CFR, CFR+, Q learning and DQN agents on Kuhn and Leduc Poker and compared profitability and exploitability. Includes a playable Streamlit app.
+AI sandbox for exploring game theory and reinforcement learning through Kuhn and Leduc Poker. Trained CFR, CFR+, Q learning and DQN agents and compared profitability and exploitability.
 
 <code>Python</code> <code>Game Theory</code> <code>Probability</code> <code>DQN</code> <code>Streamlit</code>
 
