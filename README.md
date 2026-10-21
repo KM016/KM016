@@ -139,7 +139,7 @@ Blackjack simulator to compare reinforcement learning with traditional betting s
 <td width="50%" valign="top">
 
 
-<h3>♠️ PokerAI</h3>
+<h3>♠️ <a href="https://github.com/KM016/PokerAI">PokerAI</a></h3>
 
 XYZ
 
