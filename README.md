@@ -139,11 +139,11 @@ Blackjack simulator to compare reinforcement learning with traditional betting s
 <td width="50%" valign="top">
 
 
-<h3>♠️ <a href="https://github.com/KM016/PokerAI">PokerAI</a></h3>
+<h3>♠️ <a href="https://github.com/KM016/PokerAI">Poker AI Sandbox</a></h3>
 
-XYZ
+AI sandbox for exploring game theory and reinforcement learning through Kuhn and Leduc Poker. Trained CFR, CFR+, Q learning and DQN agents on Kuhn and Leduc Poker and compared profitability and exploitability. Includes a playable Streamlit app.
 
-<code>Python</code> <code>Probability</code> <code>Game Theory</code>
+<code>Python</code> <code>Game Theory</code> <code>Probability</code> <code>DQN</code> <code>Streamlit</code>
 
 
 </td>
