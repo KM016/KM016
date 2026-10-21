@@ -128,7 +128,8 @@ CRR pricing engine for European and American options, with Greeks, Black–Schol
 <tr>
 <td width="50%" valign="top">
 
-<h3>🃏 <a href="https://github.com/KM016/BlackJack_AI">BlackJackAI</a></h3>
+<h3>🃏 <a href="https://github.com/KM016/BlackJack_AI">Blackjack Bankroll Reinforcement Learning and Risk Analysis
+</a></h3>
 
 Blackjack simulator to compare reinforcement learning with traditional betting strategies.
 
